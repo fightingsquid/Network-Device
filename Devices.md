@@ -1,12 +1,12 @@
 # Tailscale Devices
 
-*Last updated: 2026-04-01 00:00:01*
+*Last updated: 2026-04-02 00:00:01*
 
 | Hostname | OS | Status | IP Address | Tailscale IP |
 |----------|----|--------|------------|--------------|
 | RASPI-VESTA | linux | online (self) | 192.168.8.142 | 100.126.194.82 |
 | raspi-vesta-digit | linux | online | - | 100.113.35.48 |
-| mike’s Mac Studio | macOS | online | - | 100.74.187.49 |
+| mike’s Mac Studio | macOS | offline | - | 100.74.187.49 |
 | localhost | iOS | online | - | 100.110.59.54 |
 | idnano-desktop | linux | online | - | 100.125.226.23 |
 | localhost | iOS | offline | - | 100.104.2.110 |
