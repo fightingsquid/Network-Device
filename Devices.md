@@ -1,6 +1,6 @@
 # Tailscale Devices
 
-*Last updated: 2026-04-06 00:00:01*
+*Last updated: 2026-04-07 00:00:01*
 
 | Hostname | OS | Status | IP Address | Tailscale IP |
 |----------|----|--------|------------|--------------|
@@ -10,6 +10,6 @@
 | localhost | iOS | online | - | 100.110.59.54 |
 | idnano-desktop | linux | online | - | 100.125.226.23 |
 | localhost | iOS | offline | - | 100.104.2.110 |
-| thread-ripper-pro | linux | online | - | 100.87.92.60 |
+| thread-ripper-pro | linux | offline | - | 100.87.92.60 |
 | apple-air-13 | macOS | offline | - | 100.98.94.117 |
 | PIW2 | linux | offline | - | 100.80.60.65 |
