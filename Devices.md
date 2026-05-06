@@ -1,6 +1,6 @@
 # Tailscale Devices
 
-*Last updated: 2026-05-05 00:00:01*
+*Last updated: 2026-05-06 00:00:01*
 
 | Hostname | OS | Status | IP Address | Tailscale IP |
 |----------|----|--------|------------|--------------|
